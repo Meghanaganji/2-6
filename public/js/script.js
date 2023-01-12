@@ -1,1 +1,1 @@
-console.log("Meghana");
+console.log("EJS Application");
